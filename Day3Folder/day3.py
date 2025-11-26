@@ -46,7 +46,8 @@ print("The division for " + num1 + " and " + num2 + " = " + divide)
 ########################################################################
 # Task 4:
 item = input("What items are you buying?")
-unit = input("How many units are you buying")
+unit = input("How many units are you buying?")
+
 
 
 ########################################################################
