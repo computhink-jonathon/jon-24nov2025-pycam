@@ -22,7 +22,7 @@ name = input("What is your name")
 title = input("what is your title")
 command = input("What is your command")
 
-print(name + " ")
+print(name + " is a " + title )
 
 
 ########################################################################
