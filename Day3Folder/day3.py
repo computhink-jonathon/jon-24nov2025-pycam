@@ -35,7 +35,7 @@ print(name + " is a " + title + ". And he ask you to " + command)
 
 num1 = input("Give me the first number")
 num2 = input("Give me the second number")
-print("The addition for " + num1 +" and " + num2 + )
+print("The addition for " + num1 +" and " + num2 + " = ")
 
 
 
