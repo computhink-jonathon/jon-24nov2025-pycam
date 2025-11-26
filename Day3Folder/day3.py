@@ -8,7 +8,8 @@ print("hello from day3")
 myName = input("What is your name?")
 print("Your name is " + myName)
 
-
+for i in range(10):
+    print("T")
 
 
 
