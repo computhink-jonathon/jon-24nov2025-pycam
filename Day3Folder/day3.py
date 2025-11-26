@@ -48,7 +48,7 @@ print("The division for " + num1 + " and " + num2 + " = " + divide)
 item = input("What items are you buying?")
 unit = int(input("How many units are you buying?"))
 total_sum = unit * 1.5
-print("The total cost of the item is " + total_sum )
+print("The total cost of the item is " + str(total_sum) )
 
 
 ########################################################################
