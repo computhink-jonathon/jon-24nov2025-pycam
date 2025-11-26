@@ -33,8 +33,8 @@ print(name + " is a " + title + ". And he ask you to " + command)
 ########################################################################
 # Task 3:
 
-num1 = input("Give me the first number")
-num2 = input("Give me the second number")
+num1 = int(input("Give me the first number"))
+num2 = int(input("Give me the second number"))
 addition = num1+num2
 subtract = num1-num2
 multiply = num1*num2
