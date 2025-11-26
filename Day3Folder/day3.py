@@ -11,8 +11,8 @@ print("hello from day3")
 # for i in range(10):
 #     print("Current index is " + i)
 
-for i in range(10):
-    print("Current index is " + str(i))
+# for i in range(10):
+#     print("Current index is " + str(i))
 
 
 
