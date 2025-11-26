@@ -45,7 +45,7 @@ print("The multiplication for " + num1 + " and " + num2 + " = " + multiply)
 print("The division for " + num1 + " and " + num2 + " = " + divide)
 ########################################################################
 # Task 4:
-
+item = input()
 
 
 ########################################################################
