@@ -6,6 +6,7 @@ print("hello from day3")
 ######################################################################
 ### Class Example
 myName = input("What is your name?")
+print("Your name is " + myName)
 
 
 
