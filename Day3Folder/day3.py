@@ -58,6 +58,7 @@ age2 = int(input("Age2 ?"))
 if age1 > age2:
     print("Age1  is older than age 2.")
 else: 
+    print("Age 2 is older than age 1.")
 
 ########################################################################
 # Task 6:
