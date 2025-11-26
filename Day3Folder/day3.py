@@ -41,8 +41,8 @@ multiply = num1*num2
 divide = num1/num2
 print("The addition for " + num1 + " and " + num2 + " = " + addition)
 print("The addition for " + num1 + " and " + num2 + " = " + subtract)
-print("The addition for " + num1 + " and " + num2 + " = " + multiply)
-print("The addition for " + num1 + " and " + num2 + " = " + divide)
+print("The multiplication for " + num1 + " and " + num2 + " = " + multiply)
+print("The division for " + num1 + " and " + num2 + " = " + divide)
 ########################################################################
 # Task 4:
 
