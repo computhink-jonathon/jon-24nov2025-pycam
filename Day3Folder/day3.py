@@ -45,10 +45,10 @@ print("hello from day3")
 # print("The division for " + num1 + " and " + num2 + " = " + divide)
 ########################################################################
 # Task 4:
-item = input("What items are you buying?")
-unit = int(input("How many units are you buying?"))
-total_sum = unit * 1.5
-print("The total cost of the " + item + " is " + str(total_sum) )
+# item = input("What items are you buying?")
+# unit = int(input("How many units are you buying?"))
+# total_sum = unit * 1.5
+# print("The total cost of the " + item + " is " + str(total_sum) )
 
 
 ########################################################################
