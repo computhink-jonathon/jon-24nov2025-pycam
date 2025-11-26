@@ -47,7 +47,8 @@ print("The division for " + num1 + " and " + num2 + " = " + divide)
 # Task 4:
 item = input("What items are you buying?")
 unit = int(input("How many units are you buying?"))
-total_sum = 
+total_sum = unit * 1.5
+
 
 
 ########################################################################
