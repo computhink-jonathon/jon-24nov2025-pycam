@@ -34,7 +34,8 @@ print(name + " is a " + title + ". And he ask you to " + command)
 # Task 3:
 
 num1 = input("Give me the first number")
-num2 = input()
+num2 = input("Give me the second number")
+
 
 
 
