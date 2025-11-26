@@ -20,7 +20,7 @@ print("hello from day3")
 # Task 1:
 name = input("What is your name")
 title = input("what is your title")
-commnad = input
+commnad = input("")
 
 
 ########################################################################
