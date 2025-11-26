@@ -18,11 +18,11 @@ print("hello from day3")
 
 ########################################################################
 # Task 1:
-name = input("What is your name")
-title = input("what is your title")
-command = input("What is your command")
+# name = input("What is your name")
+# title = input("what is your title")
+# command = input("What is your command")
 
-print(name + " is a " + title + ". And he ask you to " + command)
+# print(name + " is a " + title + ". And he ask you to " + command)
 
 
 ########################################################################
@@ -33,16 +33,16 @@ print(name + " is a " + title + ". And he ask you to " + command)
 ########################################################################
 # Task 3:
 
-num1 = int(input("Give me the first number"))
-num2 = int(input("Give me the second number"))
-addition = num1+num2
-subtract = num1-num2
-multiply = num1*num2
-divide = num1/num2
-print("The addition for " + num1 + " and " + num2 + " = " + addition)
-print("The addition for " + num1 + " and " + num2 + " = " + subtract)
-print("The multiplication for " + num1 + " and " + num2 + " = " + multiply)
-print("The division for " + num1 + " and " + num2 + " = " + divide)
+# num1 = int(input("Give me the first number"))
+# num2 = int(input("Give me the second number"))
+# addition = num1+num2
+# subtract = num1-num2
+# multiply = num1*num2
+# divide = num1/num2
+# print("The addition for " + num1 + " and " + num2 + " = " + addition)
+# print("The addition for " + num1 + " and " + num2 + " = " + subtract)
+# print("The multiplication for " + num1 + " and " + num2 + " = " + multiply)
+# print("The division for " + num1 + " and " + num2 + " = " + divide)
 ########################################################################
 # Task 4:
 item = input("What items are you buying?")
