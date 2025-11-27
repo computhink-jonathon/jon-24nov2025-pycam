@@ -10,7 +10,17 @@ print("hello from day4")
 ########################################################################
 # Task 2:
 
+answer = "no idea"
+# question = input("What do you call a deer with no eyes?")
+counter = 3
 
+while counter < 3:
+    question = input("What do you call a deer with no eyes?")
+    if question != answer:
+        print("wrong answer")
+        counter += 1
+    else:
+        print("answer correct.")
 
 ########################################################################
 # Additional exercises:
