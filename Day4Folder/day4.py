@@ -12,7 +12,7 @@ print("hello from day4")
 
 answer = "no idea"
 # question = input("What do you call a deer with no eyes?")
-counter = 3
+counter = 0
 
 while counter < 3:
     question = input("What do you call a deer with no eyes?")
